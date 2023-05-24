@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259434475629",
+    "project_id": "suraksha-6995c",
+    "storage_bucket": "suraksha-6995c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259434475629:android:e7ea3853f31824e624cf64",
+        "android_client_info": {
+          "package_name": "com.vanka.suraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259434475629-gmuk33lj89r3bj29tol6ne12l4tscdhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4McdXNcpMJ0TsKDlr8GY19edWGGRo6vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259434475629-gmuk33lj89r3bj29tol6ne12l4tscdhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
